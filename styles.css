@@ -1,7 +1,7 @@
 *, *::before *::after {
     box-sizing: border-box;
 }
-/*
+
 .header {
   position: relative;
   width: auto;
@@ -12,7 +12,7 @@
   border-radius: 20px;
   outline: 1px solid purple;
 }
-*/
+
 body {
     background: linear-gradient(to right, crimson, skyblue);
 }
